@@ -1,14 +1,14 @@
-"gene,rsid,category,trait,rationale"
-"SLC24A5,rs1426654,pigmentation,Skin pigmentation (Ala111Thr),Classic AIM - near-fixed frequency difference Africa/Asia vs Europe"
-"SLC45A2,rs16891982,pigmentation,Skin pigmentation (Leu374Phe),Second major skin-pigmentation AIM, complements SLC24A5"
-"HERC2/OCA2,rs12913832,pigmentation,Eye colour (blue/brown),Strongest known predictor of blue eye colour, highly differentiated in Europeans"
-"OCA2,rs1800407,pigmentation,Eye/skin pigmentation,Secondary OCA2 variant, cross-check against rs12913832"
-"MC1R,rs885479,pigmentation,Red hair / fair skin (Arg163Gln),Common in East Asian populations"
-"TYR,rs1393350,pigmentation,Pigmentation, eye colour,Well-replicated in forensic DNA phenotyping panels"
-"IRF4,rs12203592,pigmentation,Skin/hair/eye pigmentation,Frequently included in forensic phenotyping SNP sets"
-"EDAR,rs3827760,hair_morphology,Hair thickness, tooth shape,Very high frequency in East Asian/Native American populations, near-absent elsewhere"
-"ABO,rs8176719,blood_group,ABO group (O-allele frameshift),Extends your own dermatoglyphics/ABO research into molecular data"
-"LCT/MCM6,rs4988235,metabolism,Lactase persistence,Textbook example of recent positive selection"
-"ALDH2,rs671,metabolism,Alcohol flush reaction,Near-exclusive to East Asian populations"
-"DARC/ACKR1,rs2814778,immune,Duffy-null / malaria resistance,Near-fixed in West African populations - one of the strongest AIMs known"
-"ACTN3,rs1815739,performance,""Sprint gene"" (R577X),Well-known, non-clinical, easy to explain in a portfolio writeup"
+gene,rsid,category,trait,rationale
+SLC24A5,rs1426654,pigmentation,Skin pigmentation (Ala111Thr),Classic AIM - near-fixed frequency difference Africa/Asia vs Europe
+SLC45A2,rs16891982,pigmentation,Skin pigmentation (Leu374Phe),"Second major skin-pigmentation AIM, complements SLC24A5"
+HERC2/OCA2,rs12913832,pigmentation,Eye colour (blue/brown),"Strongest known predictor of blue eye colour, highly differentiated in Europeans"
+OCA2,rs1800407,pigmentation,Eye/skin pigmentation,"Secondary OCA2 variant, cross-check against rs12913832"
+MC1R,rs885479,pigmentation,Red hair / fair skin (Arg163Gln),Common in East Asian populations
+TYR,rs1393350,pigmentation,"Pigmentation, eye colour",Well-replicated in forensic DNA phenotyping panels
+IRF4,rs12203592,pigmentation,Skin/hair/eye pigmentation,Frequently included in forensic phenotyping SNP sets
+EDAR,rs3827760,hair_morphology,"Hair thickness, tooth shape","Very high frequency in East Asian/Native American populations, near-absent elsewhere"
+ABO,rs8176719,blood_group,ABO group (O-allele frameshift),Extends your own dermatoglyphics/ABO research into molecular data
+LCT/MCM6,rs4988235,metabolism,Lactase persistence,Textbook example of recent positive selection
+ALDH2,rs671,metabolism,Alcohol flush reaction,Near-exclusive to East Asian populations
+DARC/ACKR1,rs2814778,immune,Duffy-null / malaria resistance,Near-fixed in West African populations - one of the strongest AIMs known
+ACTN3,rs1815739,performance,Sprint gene (R577X),"Well-known, non-clinical, easy to explain in a portfolio writeup"

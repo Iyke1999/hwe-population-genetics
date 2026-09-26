@@ -1,0 +1,624 @@
+{
+  "MAF": null,
+  "population_genotypes": [
+    {
+      "count": 1,
+      "genotype": "G|G",
+      "population": "ESP6500:EA",
+      "frequency": 0.0002327
+    },
+    {
+      "genotype": "A|G",
+      "count": 40,
+      "frequency": 0.009309,
+      "population": "ESP6500:EA"
+    },
+    {
+      "population": "ESP6500:EA",
+      "frequency": 0.9905,
+      "genotype": "A|A",
+      "count": 4256
+    },
+    {
+      "count": 1323,
+      "genotype": "G|G",
+      "population": "ESP6500:AA",
+      "frequency": 0.6019
+    },
+    {
+      "genotype": "A|G",
+      "count": 742,
+      "population": "ESP6500:AA",
+      "frequency": 0.3376
+    },
+    {
+      "count": 133,
+      "genotype": "A|A",
+      "population": "ESP6500:AA",
+      "frequency": 0.06051
+    },
+    {
+      "genotype": "A|A",
+      "count": 2,
+      "population": "1000GENOMES:phase_3:ACB",
+      "frequency": 0.0208333333333333
+    },
+    {
+      "count": 78,
+      "genotype": "G|G",
+      "frequency": 0.8125,
+      "population": "1000GENOMES:phase_3:ACB"
+    },
+    {
+      "population": "1000GENOMES:phase_3:ACB",
+      "frequency": 0.166666666666667,
+      "genotype": "A|G",
+      "count": 16
+    },
+    {
+      "count": 88,
+      "genotype": "A|G",
+      "population": "1000GENOMES:phase_3:AFR",
+      "frequency": 0.133131618759455
+    },
+    {
+      "population": "1000GENOMES:phase_3:AFR",
+      "frequency": 0.859304084720121,
+      "count": 568,
+      "genotype": "G|G"
+    },
+    {
+      "count": 5,
+      "genotype": "A|A",
+      "population": "1000GENOMES:phase_3:AFR",
+      "frequency": 0.0075642965204236
+    },
+    {
+      "population": "1000GENOMES:phase_3:ALL",
+      "frequency": 0.480830670926518,
+      "genotype": "G|G",
+      "count": 1204
+    },
+    {
+      "genotype": "A|G",
+      "count": 408,
+      "frequency": 0.162939297124601,
+      "population": "1000GENOMES:phase_3:ALL"
+    },
+    {
+      "frequency": 0.356230031948882,
+      "population": "1000GENOMES:phase_3:ALL",
+      "genotype": "A|A",
+      "count": 892
+    },
+    {
+      "genotype": "G|G",
+      "count": 77,
+      "frequency": 0.221902017291066,
+      "population": "1000GENOMES:phase_3:AMR"
+    },
+    {
+      "frequency": 0.377521613832853,
+      "population": "1000GENOMES:phase_3:AMR",
+      "count": 131,
+      "genotype": "A|G"
+    },
+    {
+      "population": "1000GENOMES:phase_3:AMR",
+      "frequency": 0.400576368876081,
+      "count": 139,
+      "genotype": "A|A"
+    },
+    {
+      "count": 38,
+      "genotype": "G|G",
+      "frequency": 0.622950819672131,
+      "population": "1000GENOMES:phase_3:ASW"
+    },
+    {
+      "genotype": "A|G",
+      "count": 23,
+      "population": "1000GENOMES:phase_3:ASW",
+      "frequency": 0.377049180327869
+    },
+    {
+      "population": "1000GENOMES:phase_3:BEB",
+      "frequency": 0.22093023255814,
+      "genotype": "G|G",
+      "count": 19
+    },
+    {
+      "genotype": "A|G",
+      "count": 42,
+      "frequency": 0.488372093023256,
+      "population": "1000GENOMES:phase_3:BEB"
+    },
+    {
+      "frequency": 0.290697674418605,
+      "population": "1000GENOMES:phase_3:BEB",
+      "genotype": "A|A",
+      "count": 25
+    },
+    {
+      "count": 93,
+      "genotype": "G|G",
+      "population": "1000GENOMES:phase_3:CDX",
+      "frequency": 1
+    },
+    {
+      "genotype": "A|A",
+      "count": 99,
+      "frequency": 1,
+      "population": "1000GENOMES:phase_3:CEU"
+    },
+    {
+      "genotype": "G|G",
+      "count": 97,
+      "population": "1000GENOMES:phase_3:CHB",
+      "frequency": 0.941747572815534
+    },
+    {
+      "genotype": "A|G",
+      "count": 6,
+      "frequency": 0.058252427184466,
+      "population": "1000GENOMES:phase_3:CHB"
+    },
+    {
+      "count": 4,
+      "genotype": "A|G",
+      "population": "1000GENOMES:phase_3:CHS",
+      "frequency": 0.0380952380952381
+    },
+    {
+      "frequency": 0.961904761904762,
+      "population": "1000GENOMES:phase_3:CHS",
+      "genotype": "G|G",
+      "count": 101
+    },
+    {
+      "genotype": "G|G",
+      "count": 9,
+      "population": "1000GENOMES:phase_3:CLM",
+      "frequency": 0.0957446808510638
+    },
+    {
+      "genotype": "A|G",
+      "count": 35,
+      "population": "1000GENOMES:phase_3:CLM",
+      "frequency": 0.372340425531915
+    },
+    {
+      "frequency": 0.531914893617021,
+      "population": "1000GENOMES:phase_3:CLM",
+      "genotype": "A|A",
+      "count": 50
+    },
+    {
+      "count": 492,
+      "genotype": "G|G",
+      "population": "1000GENOMES:phase_3:EAS",
+      "frequency": 0.976190476190476
+    },
+    {
+      "population": "1000GENOMES:phase_3:EAS",
+      "frequency": 0.0238095238095238,
+      "genotype": "A|G",
+      "count": 12
+    },
+    {
+      "population": "1000GENOMES:phase_3:ESN",
+      "frequency": 0.0505050505050505,
+      "count": 5,
+      "genotype": "A|G"
+    },
+    {
+      "genotype": "G|G",
+      "count": 94,
+      "population": "1000GENOMES:phase_3:ESN",
+      "frequency": 0.94949494949495
+    },
+    {
+      "genotype": "A|A",
+      "count": 500,
+      "population": "1000GENOMES:phase_3:EUR",
+      "frequency": 0.99403578528827
+    },
+    {
+      "population": "1000GENOMES:phase_3:EUR",
+      "frequency": 0.00596421471172962,
+      "genotype": "A|G",
+      "count": 3
+    },
+    {
+      "count": 97,
+      "genotype": "A|A",
+      "frequency": 0.97979797979798,
+      "population": "1000GENOMES:phase_3:FIN"
+    },
+    {
+      "frequency": 0.0202020202020202,
+      "population": "1000GENOMES:phase_3:FIN",
+      "genotype": "A|G",
+      "count": 2
+    },
+    {
+      "frequency": 1,
+      "population": "1000GENOMES:phase_3:GBR",
+      "count": 91,
+      "genotype": "A|A"
+    },
+    {
+      "frequency": 0.902912621359223,
+      "population": "1000GENOMES:phase_3:GIH",
+      "genotype": "A|A",
+      "count": 93
+    },
+    {
+      "population": "1000GENOMES:phase_3:GIH",
+      "frequency": 0.0970873786407767,
+      "genotype": "A|G",
+      "count": 10
+    },
+    {
+      "count": 1,
+      "genotype": "A|A",
+      "population": "1000GENOMES:phase_3:GWD",
+      "frequency": 0.00884955752212389
+    },
+    {
+      "count": 15,
+      "genotype": "A|G",
+      "frequency": 0.132743362831858,
+      "population": "1000GENOMES:phase_3:GWD"
+    },
+    {
+      "genotype": "G|G",
+      "count": 97,
+      "population": "1000GENOMES:phase_3:GWD",
+      "frequency": 0.858407079646018
+    },
+    {
+      "population": "1000GENOMES:phase_3:IBS",
+      "frequency": 1,
+      "count": 107,
+      "genotype": "A|A"
+    },
+    {
+      "genotype": "A|A",
+      "count": 44,
+      "frequency": 0.431372549019608,
+      "population": "1000GENOMES:phase_3:ITU"
+    },
+    {
+      "count": 45,
+      "genotype": "A|G",
+      "frequency": 0.441176470588235,
+      "population": "1000GENOMES:phase_3:ITU"
+    },
+    {
+      "count": 13,
+      "genotype": "G|G",
+      "frequency": 0.127450980392157,
+      "population": "1000GENOMES:phase_3:ITU"
+    },
+    {
+      "count": 1,
+      "genotype": "A|G",
+      "population": "1000GENOMES:phase_3:JPT",
+      "frequency": 0.00961538461538462
+    },
+    {
+      "population": "1000GENOMES:phase_3:JPT",
+      "frequency": 0.990384615384615,
+      "genotype": "G|G",
+      "count": 103
+    },
+    {
+      "count": 1,
+      "genotype": "A|G",
+      "population": "1000GENOMES:phase_3:KHV",
+      "frequency": 0.0101010101010101
+    },
+    {
+      "genotype": "G|G",
+      "count": 98,
+      "population": "1000GENOMES:phase_3:KHV",
+      "frequency": 0.98989898989899
+    },
+    {
+      "frequency": 0.858585858585859,
+      "population": "1000GENOMES:phase_3:LWK",
+      "genotype": "G|G",
+      "count": 85
+    },
+    {
+      "population": "1000GENOMES:phase_3:LWK",
+      "frequency": 0.131313131313131,
+      "count": 13,
+      "genotype": "A|G"
+    },
+    {
+      "count": 1,
+      "genotype": "A|A",
+      "population": "1000GENOMES:phase_3:LWK",
+      "frequency": 0.0101010101010101
+    },
+    {
+      "genotype": "A|A",
+      "count": 1,
+      "frequency": 0.0117647058823529,
+      "population": "1000GENOMES:phase_3:MSL"
+    },
+    {
+      "frequency": 0.835294117647059,
+      "population": "1000GENOMES:phase_3:MSL",
+      "count": 71,
+      "genotype": "G|G"
+    },
+    {
+      "frequency": 0.152941176470588,
+      "population": "1000GENOMES:phase_3:MSL",
+      "count": 13,
+      "genotype": "A|G"
+    },
+    {
+      "frequency": 0.265625,
+      "population": "1000GENOMES:phase_3:MXL",
+      "count": 17,
+      "genotype": "G|G"
+    },
+    {
+      "frequency": 0.4375,
+      "population": "1000GENOMES:phase_3:MXL",
+      "count": 28,
+      "genotype": "A|G"
+    },
+    {
+      "genotype": "A|A",
+      "count": 19,
+      "population": "1000GENOMES:phase_3:MXL",
+      "frequency": 0.296875
+    },
+    {
+      "count": 6,
+      "genotype": "A|A",
+      "frequency": 0.0705882352941176,
+      "population": "1000GENOMES:phase_3:PEL"
+    },
+    {
+      "count": 43,
+      "genotype": "G|G",
+      "frequency": 0.505882352941176,
+      "population": "1000GENOMES:phase_3:PEL"
+    },
+    {
+      "population": "1000GENOMES:phase_3:PEL",
+      "frequency": 0.423529411764706,
+      "genotype": "A|G",
+      "count": 36
+    },
+    {
+      "genotype": "A|A",
+      "count": 61,
+      "population": "1000GENOMES:phase_3:PJL",
+      "frequency": 0.635416666666667
+    },
+    {
+      "count": 28,
+      "genotype": "A|G",
+      "frequency": 0.291666666666667,
+      "population": "1000GENOMES:phase_3:PJL"
+    },
+    {
+      "genotype": "G|G",
+      "count": 7,
+      "population": "1000GENOMES:phase_3:PJL",
+      "frequency": 0.0729166666666667
+    },
+    {
+      "count": 8,
+      "genotype": "G|G",
+      "frequency": 0.0769230769230769,
+      "population": "1000GENOMES:phase_3:PUR"
+    },
+    {
+      "frequency": 0.307692307692308,
+      "population": "1000GENOMES:phase_3:PUR",
+      "genotype": "A|G",
+      "count": 32
+    },
+    {
+      "population": "1000GENOMES:phase_3:PUR",
+      "frequency": 0.615384615384615,
+      "count": 64,
+      "genotype": "A|A"
+    },
+    {
+      "genotype": "G|G",
+      "count": 67,
+      "population": "1000GENOMES:phase_3:SAS",
+      "frequency": 0.137014314928425
+    },
+    {
+      "count": 174,
+      "genotype": "A|G",
+      "frequency": 0.355828220858896,
+      "population": "1000GENOMES:phase_3:SAS"
+    },
+    {
+      "count": 248,
+      "genotype": "A|A",
+      "frequency": 0.507157464212679,
+      "population": "1000GENOMES:phase_3:SAS"
+    },
+    {
+      "count": 25,
+      "genotype": "A|A",
+      "population": "1000GENOMES:phase_3:STU",
+      "frequency": 0.245098039215686
+    },
+    {
+      "genotype": "A|G",
+      "count": 49,
+      "population": "1000GENOMES:phase_3:STU",
+      "frequency": 0.480392156862745
+    },
+    {
+      "genotype": "G|G",
+      "count": 28,
+      "frequency": 0.274509803921569,
+      "population": "1000GENOMES:phase_3:STU"
+    },
+    {
+      "genotype": "A|A",
+      "count": 106,
+      "population": "1000GENOMES:phase_3:TSI",
+      "frequency": 0.990654205607477
+    },
+    {
+      "frequency": 0.00934579439252336,
+      "population": "1000GENOMES:phase_3:TSI",
+      "genotype": "A|G",
+      "count": 1
+    },
+    {
+      "count": 3,
+      "genotype": "A|G",
+      "frequency": 0.0277777777777778,
+      "population": "1000GENOMES:phase_3:YRI"
+    },
+    {
+      "count": 105,
+      "genotype": "G|G",
+      "population": "1000GENOMES:phase_3:YRI",
+      "frequency": 0.972222222222222
+    },
+    {
+      "count": 4,
+      "genotype": "A|A",
+      "frequency": 0.0434782608695652,
+      "population": "GGVP:GWF"
+    },
+    {
+      "population": "GGVP:GWF",
+      "frequency": 0.695652173913043,
+      "genotype": "G|G",
+      "count": 64
+    },
+    {
+      "population": "GGVP:GWF",
+      "frequency": 0.260869565217391,
+      "genotype": "A|G",
+      "count": 24
+    },
+    {
+      "genotype": "A|A",
+      "count": 1,
+      "population": "GGVP:GWD",
+      "frequency": 0.00460829493087558
+    },
+    {
+      "frequency": 0.147465437788018,
+      "population": "GGVP:GWD",
+      "genotype": "A|G",
+      "count": 32
+    },
+    {
+      "frequency": 0.847926267281106,
+      "population": "GGVP:GWD",
+      "count": 184,
+      "genotype": "G|G"
+    },
+    {
+      "genotype": "A|G",
+      "count": 5,
+      "frequency": 0.0510204081632653,
+      "population": "GGVP:GWW"
+    },
+    {
+      "frequency": 0.948979591836735,
+      "population": "GGVP:GWW",
+      "genotype": "G|G",
+      "count": 93
+    },
+    {
+      "genotype": "A|A",
+      "count": 4,
+      "population": "GGVP:GWJ",
+      "frequency": 0.0408163265306122
+    },
+    {
+      "population": "GGVP:GWJ",
+      "frequency": 0.826530612244898,
+      "count": 81,
+      "genotype": "G|G"
+    },
+    {
+      "population": "GGVP:GWJ",
+      "frequency": 0.13265306122449,
+      "genotype": "A|G",
+      "count": 13
+    },
+    {
+      "frequency": 0.835643564356436,
+      "population": "GGVP:ALL",
+      "genotype": "G|G",
+      "count": 422
+    },
+    {
+      "population": "GGVP:ALL",
+      "frequency": 0.146534653465347,
+      "genotype": "A|G",
+      "count": 74
+    },
+    {
+      "frequency": 0.0178217821782178,
+      "population": "GGVP:ALL",
+      "genotype": "A|A",
+      "count": 9
+    }
+  ],
+  "evidence": [
+    "Frequency",
+    "1000Genomes",
+    "Cited",
+    "ESP",
+    "Phenotype_or_Disease",
+    "ExAC",
+    "gnomAD"
+  ],
+  "mappings": [
+    {
+      "coord_system": "chromosome",
+      "location": "15:48134287-48134287",
+      "seq_region_name": "15",
+      "strand": 1,
+      "end": 48134287,
+      "allele_string": "A/G/T",
+      "ancestral_allele": "G",
+      "assembly_name": "GRCh38",
+      "start": 48134287
+    }
+  ],
+  "name": "rs1426654",
+  "clinical_significance": [
+    "benign",
+    "association"
+  ],
+  "var_class": "SNP",
+  "most_severe_consequence": "missense_variant",
+  "source": "Variants (including SNPs and indels) imported from dbSNP",
+  "synonyms": [
+    "VAR_024922",
+    "VCV000263273",
+    "VCV000001487",
+    "RCV000001552",
+    "RCV000250857",
+    "RCV001723865",
+    "609802.0001",
+    "rs58147390",
+    "rs52802038"
+  ],
+  "minor_allele": null,
+  "ambiguity": "D"
+}
